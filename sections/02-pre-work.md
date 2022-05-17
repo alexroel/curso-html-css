@@ -9,6 +9,6 @@
 - Live Server
 - Auto Close Tag
 - Material Icon Theme (Opcional)
-- Vim Theme (Opcional)
+- Atom One Dark Theme (Opcional)
 - Spanish Language Pack for Visual Studio Code (Opcional)
 
