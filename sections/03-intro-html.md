@@ -221,6 +221,10 @@ Las tablas HTML permiten a los desarrolladores web organizar los datos en filas 
 
     <table border="1">
         <tr>
+            <th colspan="4">Usuarios</th>
+            <th rowspan="4">END</th>
+        </tr>
+        <tr>
             <th>N#</th>
             <th>Nombres</th>
             <th>Correo</th>
