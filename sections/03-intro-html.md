@@ -144,22 +144,27 @@ La etiqueta `<ul></ul>` crea un lista no ordenada. Esta definido como elemento p
 <h2>Lista de Tipos de Texto</h2>
 <h3>Listas Desordenadas</h3>
     <ul>
-        <li>Textos en gritas</li>
-        <ul>
-            <li>Texto en <b>negrita</b></li>
-            <li>Texto en <strong>negrita importante</strong></li>
-        </ul>
-        <li>Textos en cursivas</li>
-        <ul>
-            <li>Texto en <i>cursiva</i></li>
-            <li>Texto en <em>cursiva importante</em></li>
-        </ul>
-        <li>Otros</li>
-        <ul>
-            <li>Texto <u>subrayado</u></li>
-            <li>Texto <small>pequeño</small></li>
-            <li>Texto en <code>código</code></li>
-        </ul>      
+        <li>Textos en negrita
+            <ul>
+                <li>Texto en <b>negrita</b></li>
+                <li>Texto en <strong>negrita importante</strong></li>
+            </ul>
+        </li>
+        
+        <li>Textos en cursiva
+            <ul>
+                <li>Texto en <i>cursiva</i></li>
+                <li>Texto en <em>cursiva importante</em></li>
+            </ul>
+        </li>
+        
+        <li>Otros
+            <ul>
+                <li>Texto <u>subrayado</u></li>
+                <li>Texto <small>pequeño</small></li>
+                <li>Texto en <code>código</code></li>
+            </ul>
+        </li>     
     </ul>
 
 ~~~
@@ -171,14 +176,14 @@ La etiqueta `<ul></ul>` crea un lista no ordenada. Esta definido como elemento p
 ~~~html
 <h3>Listas Ordenadas</h3>
     <ol>
-        <li>Textos en gritas
+        <li>Textos en negrita
             <ol type="I">
                 <li>Texto en <b>negrita</b></li>
                 <li>Texto en <strong>negrita importante</strong></li>
             </ol>
         </li>
         
-        <li>Textos en cursivas
+        <li>Textos en cursiva
             <ol type="A">
                 <li>Texto en <i>cursiva</i></li>
                 <li>Texto en <em>cursiva importante</em></li>
