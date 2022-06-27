@@ -25,28 +25,16 @@
 - CSS es Hojas de Estilo en Cascada (Cascading Style Sheets). 
 - Nos permite asignar estilos a los elementos de nuestra página web
 
+# Entorno de Trabajo 
 
-## Fundamentos de Desarrollo Web
-### Front-end 
-- HTML Estructura 
-- CSS Presentación  
-- JavaScript Comportamiento 
+## Herramientas para el curso:
+1. Navegador - [Mozilla Firefox](https://www.mozilla.org/es-ES/firefox/new/)
+2. Editor de Código - [Visual Estudio Code](https://code.visualstudio.com/) 
 
-- Framework de CSS
-    - Bootstrap 
-    - Materialize 
-    - Tailwind
-- Framework de JavaScript
-    - React 
-    - Angular 
-    - VueJS
-- Preprocesadores de CSS 
-    - Sass
-    - Less
-    - Stylus
+## Extensiones de Visual Studio Code 
 
-### Back-end
-- PHP 
-- Python 
-- Java 
-- Go
+- Live Server
+- Auto Close Tag
+- Material Icon Theme (Opcional)
+- Atom One Dark Theme (Opcional)
+- Spanish Language Pack for Visual Studio Code (Opcional)

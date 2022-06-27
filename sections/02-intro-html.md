@@ -207,13 +207,13 @@ La etiqueta `<ul></ul>` crea un lista no ordenada. Esta definido como elemento p
 - `<dd>` para describir el término en una lista de descripción
 
 ~~~html
-    <h3>Listas de descripción</h3>
-    <dl>
-        <dt>Café</dt>
-        <dd>El café esta caliente</dd>
-        <dt>Leche</dt>
-        <dd>La leche esta tibia</dd>
-    </dl>
+        <h3>Listas de descripción</h3>
+        <dl>
+            <dt>Café</dt>
+            <dd>El café esta caliente</dd>
+            <dt>Leche</dt>
+            <dd>La leche esta tibia</dd>
+        </dl>
 ~~~
 ---
 ## Tablas 
